@@ -8,11 +8,11 @@
 
 ### 대화 채널 Communication Channel
 
-장고걸스서울 슬랙 `#meltingpot-semiar`로 들어오시길 바랍니다.
-처음 장고걸스서울 슬랙에 오시는 분은 [링크](http://slack.djangogirlsseoul.org/)를 클릭하시고 이메일을 작성하셔서 초대메일을 받으세요.
+장고걸스서울 슬랙으로 들어오시길 바랍니다.
+처음 장고걸스서울 슬랙에 오시는 분은 [링크](https://djangogirlsseoulslackin.herokuapp.com/)를 클릭하시고 이메일을 작성하셔서 초대메일을 받으세요.
 
-Join `#melting-pot-seminar` in Slack.
-If you are newbie in Django Girls Seoul Slack, Click this [link](http://slack.djangogirlsseoul.org/).
+Join in Slack.
+If you are newbie in Django Girls Seoul Slack, Click this [link](https://djangogirlsseoulslackin.herokuapp.com/).
 
 
 Facebook Page [Django Girls Seoul](https://www.facebook.com/djangogirlsseoul/)
